@@ -1,0 +1,147 @@
+body{
+    background-color: hsl(0, 0%, 98%);
+    font-family: 'Epilogue', sans-serif;
+    
+}
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    color: white;
+    font-size: 15px;
+    
+}
+li{
+    float: left;
+    font-size: 18px;
+    
+}
+li a, .dropbtn{
+    display: inline-block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+#logo{
+    width: 4rem;
+    height: 4rem;
+    border-radius: 2rem;
+}
+
+#xr{
+float: right;
+margin-right: 40px;
+font-size: 18px;
+}
+.submitbtn{ 
+    padding:  5px 16px 10px ;
+    margin: 8px auto;
+ background-color: white;
+text-align: center;
+    border-radius: 0.5rem;
+    font-size: 15px;
+    margin-bottom: 50px;
+   
+}  
+li{
+    list-style: none;
+    
+}
+.thor{
+    display: flex;
+}
+.one{
+    margin-left: 200px;
+    margin-top: 10rem;
+}
+.KFC{
+    text-align: center;
+    color: white;
+    margin: 14px;
+    padding: 25px;
+       background-color: black;
+      text-align: center;
+     border-color: black;
+     font-size: 18px;
+     border-radius: 1rem;
+      
+}
+#john{
+    width:700px;  
+     
+}
+.thor{
+    display: flex;
+}
+.side{
+    margin-left: 4rem;
+    margin-top: 5rem;
+}
+li a, .dropbtn{
+    display: inline-block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li.dropdown{
+    display: inline-block;
+    font-size: 18px;
+}
+.dropdown-content{
+    display: none;
+    position: absolute;
+    background-color: white;
+    min-width: 160px;
+    z-index: 1;
+}
+.dropdown-content a{
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+}
+.dropdown-content a:hover{background-color: #f1f1f1;}
+.dropdown:hover .dropdown-content{
+    display: block;
+}
+.OTP{
+    display: flex;
+}
+.container {
+    width: 80%;
+    margin: auto;
+    text-align: left;
+  }
+
+.menu-item {
+  display: inline-block;
+  width: 30%;
+  text-align: center;
+  margin-bottom: 20px;
+}
+.menu-item img {
+  width: 100%;
+  height: auto;
+  border-radius: 10px;
+}
+.menu-item h3 {
+  font-size: 24px;
+  color: #333;
+  margin-top: 10px;
+}
+.menu-item p {
+  font-size: 18px;
+  color: #999;
+}
+
+span{
+    text-align: center;
+    color: black ;
+    font-size: 1.5rem;
+}
+
